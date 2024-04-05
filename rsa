@@ -15,4 +15,4 @@ with open(argv[1]) as f:
                     if factor % j == 0 or j == 0:
                         break
                     print ("{}*{}".format(factor, i))
-                          break
+                    break
